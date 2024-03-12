@@ -24,10 +24,10 @@ their leaders, i.e. the students, professors and academic staff.
 - [How To Survive USI](guidebook/how-to-survive-usi.md)
 
 ## Projects
-- [Bachelor suggestions](#projects/bachelor-suggestions.md)
-- [Lounge space](projects/lounge.md)
-- [Faculty rules proposals](projects/faculty-rules-proposals.md)
-- [USI wellbeing](projects/usi-wellbeing.md)
-- [Events](projects/events.md)
+- [Bachelor suggestions](project/bachelor-suggestions.md)
+- [Lounge space](project/lounge.md)
+- [Faculty rules proposals](project/faculty-rules-proposals.md)
+- [USI wellbeing](project/usi-wellbeing.md)
+- [Events](project/events.md)
 - [Senate Representatives](project/senate-representatives.md)
 
