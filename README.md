@@ -15,8 +15,10 @@ their leaders, i.e. the students, professors and academic staff.
 
 ### 2023/2024
 
-- Alfio Vavassori **Representative**, MSc AI
-- Jeferson Morales Mariciano **Vice Representative**, BSc Informatics
+| Names | Role | Enrolment |
+|-------|------|-----------|
+| Alfio Vavassori | Representative | MSc AI |
+| Jeferson Morales Mariciano | Vice Representative | BSc Informatics |
 
 ## Guidebook
 - [How To Survive USI](#)
@@ -27,3 +29,4 @@ their leaders, i.e. the students, professors and academic staff.
 - [USI wellbeing](#)
 - [Events](#)
 - [Senate Representatives](#)
+
