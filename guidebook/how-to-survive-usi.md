@@ -7,18 +7,18 @@ You will find tips and alerts regarding your future studies here from people
 that already finished or have experienced the same courses.
 
 ## Table of Contents
-- Bachelor project
-- SA5 Field Project
-- SA4 Software Engineering project
-- SA3 Web Atelier
-- Algorithms and Systems Programming
+- [Bachelor project](#bachelor-project)
+- [SA5 Field Project](#sa5-field-project)
+- [SA4 Software Engineering project](#sa4-software-engineering-project)
+- [SA3 Web Atelier](#sa3-web-atelier)
+- [Algorithms and Systems Programming](#algorithms-and-systems-programming)
 
 ## Bachelor Project
 
 Start from mid 5th semester to look for the professors of USI that aligns to
 your interests. 
 You can find their interests in 
-[USI page](https://search.usi.ch/en/faculties/3/faculty-of-informatics/people)
+[USI Inf profs webpage](https://search.usi.ch/en/faculties/3/faculty-of-informatics/people)
 and their corresponding research team topics.
 Go by exclusion if you do not know what you like.
 Ask gently such professors whether they have some bachelor project proposal 
@@ -84,5 +84,5 @@ Good luck!
 
 Academic year 2023/2024.
 
-## Glossary
 [^1]: most difficult courses at USI
+
