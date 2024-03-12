@@ -34,6 +34,9 @@ SA5 is a core course of the BSc i.e. is mandatory to do it to graduate.
 The course consists in an internship in a Swiss company during the 5th semester.
 Some internships may evolve in job positions: do it well! 
 
+**Beware**: to do SA5 you cannot fail any course during the 2nd semester, 
+because the SA5 burocracy starts during the 4th semester.
+
 **Tips**: althought exemption is an option, 
 our economic system promotes switching jobs frequently.
 SA5 will give you the opportunity to have (another) working experience 
