@@ -21,12 +21,12 @@ their leaders, i.e. the students, professors and academic staff.
 | Jeferson Morales Mariciano | Vice Representative | BSc Informatics |
 
 ## Guidebook
-- [How To Survive USI](#)
+- [How To Survive USI](guidebook/how-to-survive-usi.md)
 
 ## Projects
-- [Lounge space](#)
-- [Faculty rules proposals](#)
-- [USI wellbeing](#)
-- [Events](#)
-- [Senate Representatives](#)
+- [Lounge space](projects/lounge.md)
+- [Faculty rules proposals](projects/faculty-rules-proposals.md)
+- [USI wellbeing](projects/usi-wellbeing.md)
+- [Events](projects/events.md)
+- [Senate Representatives](project/senate-representatives.md)
 
