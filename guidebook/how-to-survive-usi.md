@@ -59,6 +59,8 @@ otherwise you won't be able to keep the pace.
 A key to pass the project is to check what the tests evaluate:
 even though the functionality is there, the tests may check smaller details,
 be sure to satisfy them all.
+Do not forget to install dependencies and check database service is running 
+at every project start.
 
 Develop strong debugging skills by using powerful IDEs: 
 conditional breakpoints, stacktrace analysis.
