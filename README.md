@@ -31,3 +31,6 @@ their leaders, i.e. the students, professors and academic staff.
 - [Events](project/events.md)
 - [Senate Representatives](project/senate-representatives.md)
 
+## Tools
+
+- Printers webapp: [printers.usi.ch](https://printers.usi.ch:9192/)
