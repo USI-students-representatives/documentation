@@ -25,7 +25,7 @@ Ask gently such professors whether they have some bachelor project proposal
 or propose yourself some project that might interest them.
 
 Remember: do not wait until start 6th semester to ask professors for a project,
-many of them will already be selected.
+many of them will already be selected. If you have a specific project in mind, approach them as soon as possible during the 5th semester.
 
 ## SA5 Field Project
 
