@@ -52,7 +52,7 @@ The order of skills is not casual.
 
 ## SA3 Web Atelier
 
-Weed-out course[^1].
+Among hardest courses.
 
 The project will be harsh and **very** time consuming.
 
@@ -72,7 +72,7 @@ Suggestions: Jetbrains IDE Webstorm.
 
 ## Algorithms and Systems programming
 
-Weed-out course[^1].
+Among hardest courses.
 
 Training in Leetcode and Codeforces in C++ can save you from these hard courses.
 
@@ -88,6 +88,3 @@ Good luck!
 ### Update
 
 Academic year 2023/2024.
-
-[^1]: most difficult courses at USI
-
