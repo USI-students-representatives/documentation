@@ -25,7 +25,7 @@ Current events:
 | Date | Event | Motivation |
 |------|--------|------------|
 | 18 Apr 2024 | Long night of Careers | find a job |
-| 4 May 2024 | Dies Academicus | Shane Leggs, Google Deepmind |
+| 4 May 2024 | Dies Academicus | Shane Legg, Google Deepmind |
 
 
 
