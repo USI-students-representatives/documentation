@@ -18,7 +18,7 @@ Representatives Roberto Palmieri and Albert Cerfeda
 this project to recreate such recreational space for social purpose 
 akin to Black Building in old USI west campus.
 
-Architects were contacted and are aware of the needings.
+Architects were contacted and are aware of what is needed.
 
 #### 2023/2024
 
