@@ -40,3 +40,4 @@ Email: <[student.representatives.inf@usi.ch](mailto:student.representatives.inf@
 ## Notes
 
 - [google docs](https://docs.google.com/document/d/1FHOFsbnqhC_hTR9pPkHKEedjIc4oiXfIAmcWOAgjJyU/edit?usp=sharing)
+- [google sheets](https://docs.google.com/spreadsheets/d/13TKBHlxASMrk_Z8wl8EtCSDngunmjK0k44t3Tg2EoGI/edit?usp=sharing)
