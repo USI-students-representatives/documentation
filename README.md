@@ -13,6 +13,8 @@ their leaders, i.e. the students, professors and academic staff.
 
 ## Representatives
 
+Email: <[rappresentanti.studenti.inf@usi.ch](mailto:rappresentanti.studenti.inf@usi.ch)>
+
 ### 2023/2024
 
 | Names | Role | Enrolment |
