@@ -34,3 +34,7 @@ their leaders, i.e. the students, professors and academic staff.
 ## Tools
 
 - Printers webapp: [printers.usi.ch](https://printers.usi.ch:9192/)
+
+## Notes
+
+- [google docs](https://docs.google.com/document/d/1FHOFsbnqhC_hTR9pPkHKEedjIc4oiXfIAmcWOAgjJyU/edit?usp=sharing)
