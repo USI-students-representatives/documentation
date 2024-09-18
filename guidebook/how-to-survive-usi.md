@@ -11,6 +11,7 @@ that already finished or have experienced the same courses.
 - [SA5 Field Project](#sa5-field-project)
 - [SA4 Software Engineering project](#sa4-software-engineering-project)
 - [SA3 Web Atelier](#sa3-web-atelier)
+- -[Data Management](#data-management)
 - [Algorithms and Systems Programming](#algorithms-and-systems-programming)
 
 ## Bachelor Project
@@ -69,6 +70,9 @@ Develop strong debugging skills by using powerful IDEs:
 conditional breakpoints, stacktrace analysis.
 
 Suggestions: Jetbrains IDE Webstorm.
+
+## Data Management
+During the past exams there have been questions asked about every (or almost every) concept in the slides. Reviewing and understanding the assignments is very important but do not neglect studying the slides.
 
 ## Algorithms and Systems programming
 
