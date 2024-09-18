@@ -19,8 +19,8 @@ Email: <[student.representatives.inf@usi.ch](mailto:student.representatives.inf@
 
 | Names | Role | Enrolment |
 |-------|------|-----------|
-| Alfio Vavassori | Representative | MSc AI |
-| Jeferson Morales Mariciano | Vice Representative | BSc Informatics |
+| Alfio Vavassori | MSc Representative | MSc AI |
+| Jamila Oubenali | BSc Representative | BSc Informatics |
 
 ## Guidebook
 - [How To Survive USI](guidebook/how-to-survive-usi.md)
